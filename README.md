@@ -21,7 +21,7 @@ These techniques are widely used in scheduling, planning, timetabling, and resou
 
 ### The Futoshiki Puzzle
 
-Futoshiki is a Latin-square–style puzzle played on an \( n \times n \) grid:
+Futoshiki is a Latin-square–style puzzle played on an (n x n) grid:
 - each row and column must contain distinct numbers
 - some pairs of cells include **inequality constraints** (e.g., \( X > Y \))
 
